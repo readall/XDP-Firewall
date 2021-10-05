@@ -1,3 +1,2 @@
-tasks:
-  - init: |
-      apt install -y -U libconfig-dev libelf-dev 
+image:
+  file: .gitpod.dockerfile
